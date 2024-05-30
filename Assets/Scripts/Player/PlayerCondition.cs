@@ -26,7 +26,8 @@ public class PlayerCondition : MonoBehaviour, IDamageAble
     private Coroutine boostCoroutine;
 
     public PlayerController controller;
-    
+
+
 
     private void Awake()
     {
